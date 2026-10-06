@@ -5,12 +5,12 @@
       "url": "http://xhztv.top/dc"
     },
     {
-      "name": "⭐⭐⭐小盒子单仓",
-      "url": "http://xhztv.top/xhz/"
-    },
-    {
       "name": "⭐⭐⭐小盒子4K",
       "url": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "⭐⭐⭐小盒子单仓",
+      "url": "http://xhztv.top/xhz/"
     },
     {
       "name": "⭐⭐⭐老刘备",
@@ -19,6 +19,10 @@
     {
       "name": "⭐⭐⭐拾光多仓",
       "url": "http://xmbjm.fh4u.org/dc.txt"
+    },
+    {
+      "name": "⭐⭐⭐高天流云",
+      "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
     },
     {
       "name": "⭐⭐⭐OK影视",
@@ -35,10 +39,6 @@
     {
       "name": "🪞王二小镜像1",
       "url": "https://9280.kstore.vip/wex.json"
-    },
-    {
-      "name": "⭐⭐⭐高天流云",
-      "url": "https://fastly.jsdelivr.net/gh/gaotianliuyun/gao@master/js.json"
     },
     {
       "name": "⭐⭐⭐FM影视",
