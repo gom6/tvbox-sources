@@ -49,10 +49,6 @@
       "url": "http://fmys.top/fmys.json"
     },
     {
-      "name": "⭐⭐⭐俊佬",
-      "url": "http://home.jundie.top:81/top98.json"
-    },
-    {
       "name": "⭐⭐⭐道长",
       "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json"
     },
@@ -75,6 +71,10 @@
     {
       "name": "⭐⭐⭐肥猫",
       "url": "http://肥猫.net/"
+    },
+    {
+      "name": "⭐俊佬",
+      "url": "http://home.jundie.top:81/top98.json"
     },
     {
       "name": "❌VOX",
