@@ -17,16 +17,16 @@
       "url": "http://xhztv.top/xhz/"
     },
     {
-      "name": "⭐⭐⭐拾光多仓",
-      "url": "http://xmbjm.fh4u.org/dc.txt"
-    },
-    {
       "name": "⭐⭐⭐OK影视",
       "url": "https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json"
     },
     {
       "name": "🪞OK影视镜像1",
       "url": "https://fastly.jsdelivr.net/gh/2hacc/TVBox@main/oktv.json"
+    },
+    {
+      "name": "⭐⭐⭐拾光多仓",
+      "url": "http://xmbjm.fh4u.org/dc.txt"
     },
     {
       "name": "⭐⭐⭐王二小",
@@ -73,10 +73,6 @@
       "url": "https://szyyds.cn/tv/x.json"
     },
     {
-      "name": "⚠️肥猫",
-      "url": "http://肥猫.net/"
-    },
-    {
       "name": "❌VOX",
       "url": "http://rihou.cc:88/demo.php"
     },
@@ -87,6 +83,10 @@
     {
       "name": "❌摸鱼儿",
       "url": "http://摸鱼儿.cc"
+    },
+    {
+      "name": "❌肥猫",
+      "url": "http://肥猫.net/"
     },
     {
       "name": "❌饭太硬(官方)",
